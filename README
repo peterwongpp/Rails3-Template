@@ -1,0 +1,15 @@
+====== rails3-template ======
+Author: PeterWong (http://peterwongpp.com)
+
+This template is going to install these things for you:
+  - rvm supporting (.rvmrc)
+  - haml
+  - haml-rails
+  - kaminari
+  - simple_form
+  - compass
+  - jquery-rails
+  - forgery
+  - factory_girl_rails
+  - rspec_rails
+  - autotest
