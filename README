@@ -13,3 +13,11 @@ This template is going to install these things for you:
   - factory_girl_rails
   - rspec_rails
   - autotest
+
+==== Usage ====
+
+    rails new APP_NAME -m https://github.com/peterwongpp/Rails3-Template/raw/master/rails3-template.rb -T
+
+You need to pass your database setup by your self, for example using mysql:
+
+    rails new APP_NAME -m https://github.com/peterwongpp/Rails3-Template/raw/master/rails3-template.rb -T -d mysql
